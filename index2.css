@@ -1,0 +1,32 @@
+.Lets{
+    color: rgb(241, 11, 11);
+}
+.Enjoy{
+    color: rgb(189, 44, 44);
+    font-style: italic;
+}
+.The{
+    color: rgb(245, 9, 9);
+}
+.Strike{
+    text-decoration: line-through;
+}
+.Yellow{
+    background-color: yellow;
+}
+.Code{
+    font-style: italic;
+    text-decoration: underline;
+}
+.In{
+    color: rgb(80, 4, 4);
+    letter-spacing: 5px;
+}
+.Different{
+    color: rgb(231, 158, 1);
+}
+.Ways{
+    color: rgb(228, 15, 7);
+    background-color: yellow;
+    font-style: italic;
+}
